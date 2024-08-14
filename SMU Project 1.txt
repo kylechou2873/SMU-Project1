@@ -25,3 +25,5 @@ Victoria: Q4
 Jaewon: Q2
 Pamela: Q3
 Kyle: Q1
+
+Q1 Kyle: From the scatter plot, there is no real correlation between BMI, height, or weight vs chances of winning a medal.  Only trend observed is the slope of weight vs height square line tend to increase from Bronze to Gold, but fundamentally the line represent the 22 average BMI between all medalist.  The p value of BMI and weight between different medalist are at 70% to 80%.  The p value are too high to indicate relationships.  The p value for height is the closest to the 5% mark, at 10%.  The count of medals by height ranges were plotted, but the bar charts are virtually identical.
